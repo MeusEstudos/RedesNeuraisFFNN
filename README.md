@@ -322,6 +322,8 @@ Esta documentação unificada apresenta uma visão completa do projeto, desde a 
 
 **Principais Referências**
 
+- A documentação deste README.md foi criada com o auxílio do DeepSeek e do Copilot. O DeepSeek não compartilha conversas; ele apenas extraiu o conteúdo dos arquivos do Jupyter Notebook que baixei. Em seguida, compilei o conteúdo gerado e o transformei em PDF para que o Copilot pudesse finalizá-lo, incorporando também o PDF do relatório técnico do meu TCC. Acesse [minha interação com o Copilot](https://copilot.microsoft.com/shares/kUTqRN7v8zM996i2R86tG).
+
 - ANA – Agência Nacional de Águas. SAR – Sistema de Acompanhamento de Reservatórios.
 
 - INMET – Banco de Dados Meteorológicos.
