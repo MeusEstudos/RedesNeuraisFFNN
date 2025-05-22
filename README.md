@@ -246,9 +246,9 @@ Futuras Direções:
 
 
 ## ​​😎
-## Estrutura do Projeto principal
+## Estrutura do Projeto
 
-A organização dos arquivos segue uma estrutura intuitiva, e apenas o conteúdo necessário para replicar esse conteúdo:
+A organização dos arquivos segue uma estrutura principal, com apenas o conteúdo necessário para replicar esse projeto:
 
 ```
 RedesNeuraisFFNN/
